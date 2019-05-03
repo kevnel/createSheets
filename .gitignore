@@ -1,1 +1,4 @@
-
+src/.vs
+src/packages
+src/SmartSheetApiTest/bin
+src/SmartSheetApiTest/obj
