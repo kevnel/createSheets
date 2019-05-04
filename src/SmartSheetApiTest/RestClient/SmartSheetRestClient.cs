@@ -12,7 +12,8 @@ namespace SmartSheetApiTest.RestClient
     public class SmartSheetRestClient
     {
         private HttpClient _httpClient;
-        private const string _apiToken = "sawxtwkk02gjbddko6mcgtl8mp";
+        private const string _apiToken = "sawxtwkk02gjbddko6mcgtl8mp"; // for kevnelson@gmail.com account
+        //private const string _apiToken = "j0z2om6eblcis0vehhoofvns80"; // for christinarod@gmail.com account
 
         /// <summary>
         /// Instance of HttpClient to reduce number of sockets created.
